@@ -1,2 +1,1 @@
-# pizza-assignment
-Thinkful pizza assignment
+# pizza
